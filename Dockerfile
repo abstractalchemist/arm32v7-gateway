@@ -1,3 +1,5 @@
+# Build abstractalchemist/gateway:<tag>
+
 FROM arm32v6/alpine
 RUN apk update --no-cache && \
     apk add --no-cache nginx && \
