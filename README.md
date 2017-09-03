@@ -1,0 +1,1 @@
+Nginx configuration and Docker configuration for gateway service.
